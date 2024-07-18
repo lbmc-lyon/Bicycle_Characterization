@@ -1,4 +1,4 @@
-name: test_carac
+name: characterization
 channels:
   - defaults
 dependencies:
@@ -262,4 +262,4 @@ dependencies:
   - pip:
       - opencv-python==4.8.0.76
       - git+https://github.com/sushil-bharati/pyzbar.git
-prefix: C:\Users\may\AppData\Local\anaconda3\envs\caracterisation
+prefix: C:\Users\may\AppData\Local\anaconda3\envs\characterization
