@@ -15,7 +15,7 @@ General :
 In the notebooks, the things you need to do with the images are written below the current cell. When an image is displayed, check the notebook to see what you have to do.
 
 For the center of gravity : 
-Sometimes, the recognition of the QR code does not work. I am not able to explain all the reasons but I always managed to use at least 3 of the 4 images that I took during the experiment for the center of gravity. By modifying the $origin$ and $scale\_ percentage$ of the display, sometimes the QR code recognition works better. Plus, you have to make sure that your images have the highest quality available. Our images were taken with an Iphone 8 or a samsung Galaxy A71. 
+Sometimes, the recognition of the QR code does not work. I am not able to explain all the reasons but I always managed to use at least 3 of the 4 images that I took during the experiment for the center of gravity. By modifying the $origin$ and $scalepercentage$ of the display, sometimes the QR code recognition works better. Plus, you have to make sure that your images have the highest quality available. Our images were taken with an Iphone 8 or a samsung Galaxy A71. 
 
 For the inertia measurement :
 If you have uncertainties that are way too high, you can verify your signals by checking the plots displayed to see if the optimized signals matched correctly with the original signals. You can also check the plots where Gyroscopic signals are displayed to verify if the signal used is in the same range as the measured signals. 
