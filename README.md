@@ -5,9 +5,10 @@ The codes that are presented here are used to :
  3. Compute the inertia along given axis from multiple measurements
 
 ## How to use this protocol ? 
-1. First, you can read the *Protocol.pdf* file to observe the experimental setup needed and understand the method used. 
-2. Then, you can create an environment by using the *environment.yml* file
-3. When you will execute the codes, you will have an error saying that some dll files are missing, I managed to solve this issue following this link : https://github.com/NaturalHistoryMuseum/pyzbar/issues/161
+1. First, you can read the *protocol.pdf* file to observe the experimental setup needed and understand the method used. 
+2. Then, you can create an environment by using the *environment.yml* file. In your anaconda prompt, change directory to this one and type :
+	conda env create -f environment.yml
+3. When you will execute the codes, you will have an error saying that some dll files are missing, I managed to solve this issue by following this link : https://github.com/NaturalHistoryMuseum/pyzbar/issues/161
 4. Finally, you can run the 4 *ipynb* files and complete the steps of the characterization. 
 
 ## Specifications
