@@ -26,5 +26,5 @@ If you have uncertainties that are way too high, you can verify your signals by 
 - Method 2 : calibration with the frame of the bicycle
 - Wheelbase : distance between the 2 contact points of the wheels
 
-To cite this repository: 
+To cite this repository:  
 May, F. (2026). lbmc-lyon/Bicycle_Characterization (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18351144 
